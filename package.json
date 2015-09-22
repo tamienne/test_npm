@@ -4,7 +4,7 @@
   "description": "Learning about NPM",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
     "NPM"
   ],
   "author": "tamienne",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
