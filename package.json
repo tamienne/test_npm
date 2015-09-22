@@ -1,0 +1,19 @@
+{
+  "name": "learn_npm",
+  "version": "1.0.0",
+  "description": "Learing about NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "learning",
+    "NPM"
+  ],
+  "author": "tamienne",
+  "license": "UNLICENSED"
+}
